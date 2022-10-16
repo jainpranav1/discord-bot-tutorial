@@ -53,5 +53,5 @@ async function get_path_vt(voice, text) {
     return path;
 }
 
-// export get_voice_file function
+// export get_path_vt function
 module.exports.get_path_vt = get_path_vt;
