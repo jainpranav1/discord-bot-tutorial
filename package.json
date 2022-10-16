@@ -18,6 +18,7 @@
   "homepage": "https://github.com/jainpranav1/discord-bot-tutorial#readme",
   "dependencies": {
     "discord.js": "^14.6.0",
-    "dotenv": "^16.0.3"
+    "dotenv": "^16.0.3",
+    "node-fetch": "^2.6.7"
   }
 }
